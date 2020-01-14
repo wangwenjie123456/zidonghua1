@@ -1,0 +1,14 @@
+2020-01-14 10:11:10,224 - BrowserEngine - INFO - you have select Chrome browser,Please pay attention to the next operation, we will conduct automatic test, do not doze, do not lazy.
+2020-01-14 10:11:10,224 - BrowserEngine - INFO - The test server url is: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 10:11:13,078 - BrowserEngine - INFO - Starting Chrome browser.
+2020-01-14 10:11:21,132 - BrowserEngine - INFO - Open url: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 10:11:22,411 - BrowserEngine - INFO - Maximize the current window.
+2020-01-14 10:11:22,414 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-01-14 10:11:22,545 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2020-01-14 10:11:22,769 - BasePage - INFO - Had type ' sshdlr ' in inputBox
+2020-01-14 10:11:22,815 - BasePage - INFO - Had find the element '  ' successful by id via value: spa 
+2020-01-14 10:11:23,041 - BasePage - INFO - Had type ' iss!@#222qwe ' in inputBox
+2020-01-14 10:11:23,099 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*[@id='btnLogin'] 
+2020-01-14 10:11:23,297 - BasePage - INFO - The element ' 登录 ' was clicked.
+2020-01-14 10:11:28,789 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-01-14 10:12:17,656 - BasePage - INFO - Current page title is 全球金融管理服务平台

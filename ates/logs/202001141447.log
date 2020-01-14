@@ -1,0 +1,6 @@
+2020-01-14 14:47:08,732 - BrowserEngine - INFO - you have select Chrome browser,Please pay attention to the next operation, we will conduct automatic test, do not doze, do not lazy.
+2020-01-14 14:47:08,733 - BrowserEngine - INFO - The test server url is: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 14:47:11,511 - BrowserEngine - INFO - Starting Chrome browser.
+2020-01-14 14:47:18,539 - BrowserEngine - INFO - Open url: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 14:47:19,702 - BrowserEngine - INFO - Maximize the current window.
+2020-01-14 14:47:19,704 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

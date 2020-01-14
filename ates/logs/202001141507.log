@@ -1,0 +1,20 @@
+2020-01-14 15:07:09,376 - BrowserEngine - INFO - you have select Chrome browser,Please pay attention to the next operation, we will conduct automatic test, do not doze, do not lazy.
+2020-01-14 15:07:09,376 - BrowserEngine - INFO - The test server url is: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 15:07:12,004 - BrowserEngine - INFO - Starting Chrome browser.
+2020-01-14 15:07:19,633 - BrowserEngine - INFO - Open url: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 15:07:20,758 - BrowserEngine - INFO - Maximize the current window.
+2020-01-14 15:07:20,760 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-01-14 15:07:20,795 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2020-01-14 15:07:20,865 - BasePage - INFO - Had type ' sshdlr ' in inputBox
+2020-01-14 15:07:20,894 - BasePage - INFO - Had find the element '  ' successful by id via value: spa 
+2020-01-14 15:07:21,006 - BasePage - INFO - Had type ' iss!@#222qwe ' in inputBox
+2020-01-14 15:07:21,035 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*[@id='btnLogin'] 
+2020-01-14 15:07:21,098 - BasePage - INFO - The element ' 登录 ' was clicked.
+2020-01-14 15:07:26,508 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-01-14 15:08:13,284 - BasePage - INFO - Current page title is 全球金融管理服务平台
+2020-01-14 15:08:18,610 - BrowserEngine - INFO - you have select Chrome browser,Please pay attention to the next operation, we will conduct automatic test, do not doze, do not lazy.
+2020-01-14 15:08:18,610 - BrowserEngine - INFO - The test server url is: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 15:08:21,273 - BrowserEngine - INFO - Starting Chrome browser.
+2020-01-14 15:08:29,743 - BrowserEngine - INFO - Open url: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 15:08:30,931 - BrowserEngine - INFO - Maximize the current window.
+2020-01-14 15:08:30,932 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

@@ -1,0 +1,13 @@
+2020-01-14 09:42:11,998 - BrowserEngine - INFO - you have select Chrome browser,Please pay attention to the next operation, we will conduct automatic test, do not doze, do not lazy.
+2020-01-14 09:42:11,999 - BrowserEngine - INFO - The test server url is: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 09:42:14,633 - BrowserEngine - INFO - Starting Chrome browser.
+2020-01-14 09:42:21,872 - BrowserEngine - INFO - Open url: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 09:42:23,602 - BrowserEngine - INFO - Maximize the current window.
+2020-01-14 09:42:23,604 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-01-14 09:42:23,618 - BasePage - INFO - Current page title is 全球金融管理服务平台
+2020-01-14 09:42:26,951 - BrowserEngine - INFO - you have select Chrome browser,Please pay attention to the next operation, we will conduct automatic test, do not doze, do not lazy.
+2020-01-14 09:42:26,951 - BrowserEngine - INFO - The test server url is: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 09:42:31,455 - BrowserEngine - INFO - Starting Chrome browser.
+2020-01-14 09:42:38,294 - BrowserEngine - INFO - Open url: http://10.129.130.203:9082/ifinance-portal/login
+2020-01-14 09:42:39,422 - BrowserEngine - INFO - Maximize the current window.
+2020-01-14 09:42:39,423 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
